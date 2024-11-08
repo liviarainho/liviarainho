@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/ef0e62be-0c88-4d9c-9bf3-443ee079fd2a" alt="download" width="300">
+<img src="https://github.com/user-attachments/assets/ef0e62be-0c88-4d9c-9bf3-443ee079fd2a" alt="download" width="600">
 
 - 👋 Hi, I’m @liviarainho
 - 👀 I’m interested in Data Analysis, Machine Learning and Finance. 
