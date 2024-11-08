@@ -1,3 +1,4 @@
+![pexels-energepic-com-27411-159888](https://github.com/user-attachments/assets/5a2d5777-f6e9-4655-8b49-0717cda6a47a)
 <img src="https://github.com/user-attachments/assets/ef0e62be-0c88-4d9c-9bf3-443ee079fd2a" alt="download" width="1000" height="150">
 
 - 👋 Hi, I’m @liviarainho
