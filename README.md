@@ -1,3 +1,6 @@
+![pexels-anntarazevich-14751274](https://github.com/user-attachments/assets/177add5b-8f9a-4ad1-a0ee-af22ecd87484)
+
+
 <img src="https://github.com/user-attachments/assets/5a2d5777-f6e9-4655-8b49-0717cda6a47a" alt="pexels-energepic-com-27411-159888" width="1000" height="150">
 
 - 👋 Hi, I’m @liviarainho
