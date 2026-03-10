@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @liviarainho
 - 👀 I’m interested in Data Analysis, Machine Learning and Finance. 
 - 🔭 I’m currently working on Banco Sofisa
-- 🌱 I’m currently a Data Science and Artificial Intelligence student and an Product Control intern.
+- 🌱 I’m currently a Data Science and Artificial Intelligence student and an FP&A Analyst.
 - ⚡ I’m looking to collaborate on Data-Driven Projects, Automation Solutions and Financial Data Analysis.
 
 
